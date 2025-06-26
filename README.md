@@ -68,12 +68,9 @@ The data was stored in **Microsoft SQL Server**, consisting of:
 - **Bad Loans:** 5,333 applications (13.82%)  
   - Funded: **$65.53M**, Received: **$37.28M**
 
----
-
 ## 🖼 Dashboard Screenshots
-> *(Insert images of key dashboard pages here: Overview, Trends, Loan Status by Region, etc.)*
+> *![Bank Analysis Report](https://github.com/user-attachments/assets/3e0ada16-9282-4851-b25e-d3b0f6f6f88d)*
 
----
 
 ## ✅ Recommendations
 - **Optimize approval criteria** for applicants with DTI > 15, as these correlate with higher default rates.
