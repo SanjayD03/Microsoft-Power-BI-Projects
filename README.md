@@ -70,10 +70,17 @@ The data was stored in **Microsoft SQL Server**, consisting of:
 
 ## 🖼 Dashboard Screenshots
 > *![Bank Analysis Report](https://github.com/user-attachments/assets/3e0ada16-9282-4851-b25e-d3b0f6f6f88d)*
-
+📊 Explore the Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiOWY3NDZlOTItNDY2OC00ZTI3LWI3ZDgtMTA1NDU3MDRmYzNiIiwidCI6IjRlZjY3YTA1LTEwOTAtNDU2MC1hMjE4LWI4MzdhNWVkN2Q2MSJ9
 
 ## ✅ Recommendations
 - **Optimize approval criteria** for applicants with DTI > 15, as these correlate with higher default rates.
 - **Increase staff** during December–January to manage peak application load.
 - **Expand operations** in regions with consistently high repayment rates (use map visuals for targeting).
 - Use insights to **refine lending strategy** and reduce bad loan ratio from 13.8% to under 10%.
+
+🙋‍♂️ About Me
+Sanjay Vijay Divate
+📧 sanjaydivate12@gmail.com
+📱 +91-9404262162
+💼 Data Analytics Professional | Power BI | SQL | Python | HDFS | PySpark | Databricks | Tableau | Advanced Excel | Data Analysis | Visualization | Reporting | Data Modelling | | Aspiring Data Engineer
+🌐 LinkedIn (https://www.linkedin.com/in/sanjay-divate/)
