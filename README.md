@@ -79,8 +79,13 @@ The data was stored in **Microsoft SQL Server**, consisting of:
 - Use insights to **refine lending strategy** and reduce bad loan ratio from 13.8% to under 10%.
 
 🙋‍♂️ About Me
+
 Sanjay Vijay Divate
+
 📧 sanjaydivate12@gmail.com
+
 📱 +91-9404262162
+
 💼 Data Analytics Professional | Power BI | SQL | Python | HDFS | PySpark | Databricks | Tableau | Advanced Excel | Data Analysis | Visualization | Reporting | Data Modelling | | Aspiring Data Engineer
+
 🌐 LinkedIn (https://www.linkedin.com/in/sanjay-divate/)
